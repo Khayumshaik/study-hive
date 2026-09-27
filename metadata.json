@@ -1,0 +1,6 @@
+{
+  "name": "StudyHive",
+  "description": "Campus academic tracker and social super-app with deadlines, resource vault, study circles chat, and student portfolio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
